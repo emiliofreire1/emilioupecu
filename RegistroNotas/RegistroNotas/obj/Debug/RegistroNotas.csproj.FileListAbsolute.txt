@@ -1,0 +1,17 @@
+D:\EmilioUPS\RegistroNotas\RegistroNotas\bin\Debug\RegistroNotas.exe.config
+D:\EmilioUPS\RegistroNotas\RegistroNotas\bin\Debug\RegistroNotas.exe
+D:\EmilioUPS\RegistroNotas\RegistroNotas\bin\Debug\RegistroNotas.pdb
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.csproj.AssemblyReference.cache
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Formulario.FrmAccesoSistema.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Formulario.FrmGraficos.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Formulario.FrmRegistroNotas.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Formulario.MDIFrmPrincipal.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Properties.Resources.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.csproj.GenerateResource.cache
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.csproj.CoreCompileInputs.cache
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.exe
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.pdb
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.Formulario.FrmRegistroUsuarios.resources
+D:\EmilioUPS\RegistroNotas\RegistroNotas\bin\Debug\AccesoDatos.dll
+D:\EmilioUPS\RegistroNotas\RegistroNotas\bin\Debug\AccesoDatos.pdb
+D:\EmilioUPS\RegistroNotas\RegistroNotas\obj\Debug\RegistroNotas.csproj.CopyComplete
